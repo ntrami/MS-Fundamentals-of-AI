@@ -6,7 +6,7 @@ This project was completed in the Fundamentals of Artificial Intelligence subjec
 + Iterative deepening search <br>
 + Greedy-best first search <br>
 + Graph-search A* <br>
-Demo video: https://www.youtube.com/watch?v=APDnPkphzWI
+Demo video: https://youtu.be/APDnPkphzWI
 ## Lab02: Adversarial Search
 Implement Tic tac toe game <br>
 Demo video: https://youtu.be/uxINykRl7VE
