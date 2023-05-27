@@ -8,5 +8,5 @@ This project was completed in the Fundamentals of Artificial Intelligence subjec
 + Graph-search A* <br>
 Demo video: https://www.youtube.com/watch?v=APDnPkphzWI
 ## Lab02: Adversarial Search
-Implement Tic tac toe game
+Implement Tic tac toe game <br>
 Demo video: https://youtu.be/uxINykRl7VE
